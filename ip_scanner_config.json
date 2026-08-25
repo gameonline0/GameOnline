@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "allowed_cidrs": [],
+  "default_port": 443,
+  "timeout_seconds": 1.5,
+  "max_hosts_per_scan": 256,
+  "workers": 16,
+  "auto_apply_to_configs": false
+}
